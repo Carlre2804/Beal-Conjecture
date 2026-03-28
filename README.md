@@ -44,3 +44,7 @@ Before the final proof, an empirical study was conducted to investigate and hypo
 * 📄 **`Beal_Symmetry_Collision.pdf`**: The formal manuscript.
 * 💻 **`Beal_Symmetry_Collision.lean`**: The machine-verifiable source code.
 * 🛠️ **`/Toolkit`**: The investigational files used to hypothesize the symmetry collision.
+
+---
+
+⚖️ Licensed under <b><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 International</a></b>
