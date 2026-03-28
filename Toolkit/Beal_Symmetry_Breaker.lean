@@ -1,3 +1,5 @@
+-- Self-contained Lean 4: Symmetry Breaker
+
 /-- The Microscope: Counts p-adic layers --/
 def valuation (p n : Nat) : Nat :=
   if h : p > 1 ∧ n > 0 then
