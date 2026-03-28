@@ -27,7 +27,7 @@ Since $z$ is at least 3, no integer $k$ can satisfy this. The kernel reaches a *
 ---
 
 ### 🛠️ The Discovery Toolkit
-Before the final proof, an empirical study was conducted to hypothesize the structural contradiction. These files represent the **Discovery Phase** of the project:
+Before the final proof, an empirical study was conducted to investigate and hypothesize the structural contradiction. These files represent the **Discovery Phase** of the project:
 
 * **`Noise_Invariant_Lab.lean`**: Investigating the stability of valuations under different power configurations.
 * **`Residual_One_Invariant.lean`**: Testing the hypothesis that the floor of 1 is a structural constant.
