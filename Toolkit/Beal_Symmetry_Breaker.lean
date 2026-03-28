@@ -1,6 +1,3 @@
--- FILE NAME: The_Self_Contained_Beal_Wall.lean
--- No imports. No Mathlib. Just Core Logic.
-
 /-- The Microscope: Counts p-adic layers --/
 def valuation (p n : Nat) : Nat :=
   if h : p > 1 ∧ n > 0 then
@@ -23,6 +20,5 @@ theorem asymmetric_birth_lemma (a b c x y z : Nat) :
   a^x + b^y = c^z → 
   -- The Contradiction: There must be a prime 'p' that breaks the symmetry
   ∃ p, is_prime p ∧ (c^z % p = 0) ∧ (valuation p (c^z) = 1) := by
-  -- We start the proof by bringing our variables into the context
   intro h_cond h_coprime h_eq
   sorry
