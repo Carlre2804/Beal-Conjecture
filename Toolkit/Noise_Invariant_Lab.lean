@@ -1,4 +1,4 @@
--- FILE NAME: Noise_Invariant_Lab.lean
+-- Self-contained Lean 4: Noise Invariant Lab
 -- Iterates through coprime pairs to check for 
 -- a perfect Beal Collision (where all new prime valuations % z == 0).
 
