@@ -1,7 +1,7 @@
 # <p align="center">💥 The Beal Symmetry Collision ⚖️</p>
 
 <p align="center">
-"Where Additive Birth Meets Multiplicative Death. 💀"
+"Where Additive Birth Meets Multiplicative Death" 💀
 </p>
 <p align="center">
 - AEjonanonymous  
